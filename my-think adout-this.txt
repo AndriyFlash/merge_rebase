@@ -1,0 +1,1 @@
+I think rebase and merge need to us in diferent situations and i cant say so rebase is best comand to use but practice say another!
