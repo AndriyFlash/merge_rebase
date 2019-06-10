@@ -1,0 +1,25 @@
+REBASE
+$ git log
+commit 15bb616b1df1f5506512d057ed06e27597d565ce (HEAD -> rebase, master)
+Author: AndriyPanchishko <Andreymginc@gmail.com>
+Date:   Mon Jun 10 16:05:15 2019 +0300
+
+    commit on rebase
+
+commit d7bc6a27d76f453bcec9cc613b96720a851d693f
+Author: AndriyPanchishko <Andreymginc@gmail.com>
+Date:   Mon Jun 10 16:01:42 2019 +0300
+
+    commit on master rebase
+
+commit 0bd998308930955182c2056a1cd965bb09a8b9c1 (text)
+Author: AndriyPanchishko <Andreymginc@gmail.com>
+Date:   Mon Jun 10 15:53:31 2019 +0300
+
+    commit text
+
+commit 7a5c1e5abfdae16959034f3150f319e1921b4cda
+Author: AndriyPanchishko <Andreymginc@gmail.com>
+Date:   Mon Jun 10 15:51:40 2019 +0300
+
+    i dont know
